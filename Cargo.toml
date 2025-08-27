@@ -1,6 +1,6 @@
 [package]
 name = "rust_ringitem_format"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 description = "Support for FRIB/NSCLDAQ ring item formatting"
 license = "LGPL-3.0-or-later"
