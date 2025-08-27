@@ -1,7 +1,11 @@
 [package]
 name = "rust_ringitem_format"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
+description = "Support for FRIB/NSCLDAQ ring item formatting"
+license = "LGPL-3.0-or-later"
+repository = "https://rfoxkendo@github.com/FRIBDAQ/rust_ringitem_format.git"
+
 
 [dependencies]
 humantime = "2.2.0"
