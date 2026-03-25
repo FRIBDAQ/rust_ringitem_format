@@ -8,3 +8,5 @@ For docs either see the published docs via crates.io or
 ```
 cargo doc --no-deps --open'
 ```
+
+Note for releases see http://crates.io as we publish there.
